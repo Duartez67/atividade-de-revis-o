@@ -1,0 +1,21 @@
+body {
+    background:linear-gradient( #7f8aee, #5290ec);
+    background-repeat: no-repeat;
+    background-size:cover;
+ }
+ 
+ header {
+     justify-content: space-between;
+     background-color:#68c0cf;
+     display: flex;
+     padding: 20px;
+     color:aliceblue;
+     font-size: 20px;
+ }
+ 
+ div {
+     margin: 70px;
+     color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+ }
